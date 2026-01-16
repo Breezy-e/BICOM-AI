@@ -6,7 +6,7 @@ The project focuses on transforming raw business data into clear insights that s
 
 This project is being developed as a long-term initiative with the goal of solving real-world business and economic challenges, particularly in emerging markets. It is also intended to demonstrate practical skills in software engineering, data science, artificial intelligence, and system design.
 
-#Key Focus Areas
+KEY FOCUS AREAS
 
 Business intelligence and analytics
 
@@ -18,8 +18,9 @@ Predictive analysis for business strategy
 
 Scalable system design
 
-#Project Status
+PROJECT STATUS
 This project is currently in the early development and research phase. Features, architecture, and use cases will be refined progressively.
 
-#Vision
+VISION
+
 To build a reliable AI-powered platform that supports executives, managers, and entrepreneurs in making informed, data-backed decisions.
