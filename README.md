@@ -19,6 +19,7 @@ Predictive analysis for business strategy
 Scalable system design
 
 PROJECT STATUS
+
 This project is currently in the early development and research phase. Features, architecture, and use cases will be refined progressively.
 
 VISION
